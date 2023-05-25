@@ -1,0 +1,15 @@
+/Users/valeriadunets/Desktop/C# DZ 5/bin/Debug/net6.0/C# DZ 5
+/Users/valeriadunets/Desktop/C# DZ 5/bin/Debug/net6.0/C# DZ 5.deps.json
+/Users/valeriadunets/Desktop/C# DZ 5/bin/Debug/net6.0/C# DZ 5.runtimeconfig.json
+/Users/valeriadunets/Desktop/C# DZ 5/bin/Debug/net6.0/C# DZ 5.dll
+/Users/valeriadunets/Desktop/C# DZ 5/bin/Debug/net6.0/C# DZ 5.pdb
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/C# DZ 5.csproj.AssemblyReference.cache
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/C# DZ 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/C# DZ 5.AssemblyInfoInputs.cache
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/C# DZ 5.AssemblyInfo.cs
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/C# DZ 5.csproj.CoreCompileInputs.cache
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/C# DZ 5.dll
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/refint/C# DZ 5.dll
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/C# DZ 5.pdb
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/C# DZ 5.genruntimeconfig.cache
+/Users/valeriadunets/Desktop/C# DZ 5/obj/Debug/net6.0/ref/C# DZ 5.dll
